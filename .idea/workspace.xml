@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1cd1b45-a953-480a-ac06-ce64f6188705" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/blog.html" afterPath="$PROJECT_DIR$/templates/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home.html" afterPath="$PROJECT_DIR$/templates/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/kontakt.html" afterPath="$PROJECT_DIR$/templates/kontakt.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/omeni.html" afterPath="$PROJECT_DIR$/templates/omeni.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/projekti.html" afterPath="$PROJECT_DIR$/templates/projekti.html" />
-    </list>
+    <list default="true" id="b1cd1b45-a953-480a-ac06-ce64f6188705" name="Default" comment="" />
     <ignored path="naloga152.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,8 +61,8 @@
       <file leaf-file-name="blog.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+            <state relative-caret-position="550">
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -442,8 +430,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        <state relative-caret-position="550">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
