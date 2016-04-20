@@ -47,7 +47,7 @@ class KontaktHandler(MainHandler):
         return self.render_template("kontakt.html")
 
 app = webapp2.WSGIApplication([
-    webapp2.Route('/home', MainHandler),
+    webapp2.Route('/', MainHandler),
     webapp2.Route('/omeni', OmeniHandler),
     webapp2.Route('/projekti', ProjektiHandler),
     webapp2.Route('/blog', BlogHandler),
