@@ -30,17 +30,10 @@ class MainHandler(BaseHandler):
     def get(self):
         return self.render_template("home.html")
 
-class OmeniHandler(BaseHandler):
+class OmeniHandler(MainHandler):
     def get(self):
         return self.render_template("omeni.html")
 
-class ProjektiHandler(MainHandler):
-    def get(self):
-        return self.render_template("projekti.html")
-
-class BlogHandler(MainHandler):
-    def get(self):
-        return self.render_template("blog.html")
 
 class KontaktHandler(MainHandler):
     def get(self):
@@ -49,7 +42,5 @@ class KontaktHandler(MainHandler):
 app = webapp2.WSGIApplication([
     webapp2.Route('/', MainHandler),
     webapp2.Route('/omeni', OmeniHandler),
-    webapp2.Route('/projekti', ProjektiHandler),
-    webapp2.Route('/blog', BlogHandler),
     webapp2.Route('/kontakt', KontaktHandler),
 ], debug=True)
